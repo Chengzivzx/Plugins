@@ -28,12 +28,12 @@ export class slander extends plugin {
             e.reply("就咱俩，你想怎么迫害？")
             return true;
         }
-        if(!e.at&&e.msg){
+        if(!e.at){
             e.reply("请at你要迫害的人哦")
             return true;
         }
 
-        if (e.atme && !e.at && !e.atall) return false;
+        if (e.atme || e.atall) return false;
 
         let targetQQ = e.at//获取迫害对象QQ
         if(list.indexOf(targetQQ) > -1) {
@@ -41,7 +41,7 @@ export class slander extends plugin {
             return true;
         }
 
-        let targetName = e.message[1].text.replace("@", "");//获得迫害对象名字
+        let targetName = e.group.pickMember(targetQQ).card;//获得迫害对象名字
         let Random = Math.floor(Math.random() * 9);//获取随机数
         let msg
         //选择不同的迫害话语(因为已经return了所以不用break)
