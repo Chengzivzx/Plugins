@@ -25,4 +25,6 @@
 * Yunzai-Bot（V3）：☞[Github](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FLe-niao%2FYunzai-Bot)|☞[Gitee](https://gitee.com/Le-niao/Yunzai-Bot)
 * Salipet云崽问题合集：☞[wolai文档](https://www.wolai.com/oA43vuW71aBnv7UsEysn4T)|☞[wolai文档](https://www.wolai.com/f1M1idtvVGfeHAjcywfwmw)
 * fafa云崽问题合集：☞[wolai文档](https://www.wolai.com/d87HohAH7zgLNG3u9Z2yJz)
+* 我的问题合集:☞[Github](https://github.com/Chengzivzx/Growth-process)|☞[Gitee](https://gitee.com/liuhaof/Growth-process)
+* 云崽前置工具下载地址:☞[一闪提供-密码:0000](https://yshs.lanzouy.com/b09zk5u1g)
 * QQ频道交流群：☞[点击链接加入QQ频道【原神交流区】](https://pd.qq.com/s/bhj7dpaz)
